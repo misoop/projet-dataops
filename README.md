@@ -65,7 +65,7 @@ L'ensemble des images utilisées sont disponibles sur [Docker Hub](https://hub.d
 Vous trouverez le screencast présentant les codes et les différentes fonctionnalités de l'application dans le fichier `dataops-screencast-final.mov`.
 ## Screenshots et logs
 
-![Products](producer-cons-logs.png)
+![Products](product-cons-logs.png)
 
 ![Events](event-cons-logs.png)
 
